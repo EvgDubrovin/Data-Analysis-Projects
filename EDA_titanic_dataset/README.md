@@ -2,6 +2,8 @@
 
 Here is my EDA practice on a famous titanic dataset. 
 
+***EDA_titanic_dataset_practice.ipynb*** - EDA itself.
+
 Main goals of EDA:
 1. To maximize understanding of a given dataset (how good the data is).
 2. To define the most important variables for the analysis.
