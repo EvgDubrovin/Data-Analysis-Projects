@@ -1,0 +1,13 @@
+AVIASALES
+
+# Запрос при заполнении поля Откуда 
+GET
+	https://suggest.aviasales.ru/v2/places.json?locale=ru_RU&max=7&term=москва&types[]=city&types[]=airport
+	
+# Запрос при заполнении поля Куда 
+GET
+	https://suggest.aviasales.ru/v2/places.json?locale=ru_RU&max=7&term=курган&types[]=city&types[]=airport&types[]=country
+	
+GET
+	https://suggest.aviasales.ru/v2/places.json?locale=ru_RU&max=7&term=санкт-петербург&types[]=city&types[]=airport
+	
