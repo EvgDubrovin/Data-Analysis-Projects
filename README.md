@@ -8,3 +8,7 @@ This is a Google data analytics certificate (from Coursera) case study project, 
 ## EDA_Titanic_Dataset
 
 EDA practice on a famous titanic dataset.
+
+## Trips_Scraper
+
+Two scripts for fast auto searching of best tickets (planes and trains) for business trips. Made with Selenium. 
